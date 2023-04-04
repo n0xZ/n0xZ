@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I (try) to solve problems with:</h2>
+<h2 align="left">I (try to) solve problems with:</h2>
 
 ###
 
